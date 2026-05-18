@@ -1,12 +1,12 @@
 # PRS-Diag
 
-A diagnostic framework for disentangling perception, reasoning, and simulation failures in Vision-Language Models.
+[ICML2026]A diagnostic framework for disentangling perception, reasoning, and simulation failures in Vision-Language Models.
 
 <!-- **Paper:** [Seeing Without Understanding: Disentangling Perception, Reasoning, and Simulation in VLM Gameplay](link) (ICML 2026) -->
 
 ## Overview
 
-PRS-Diag(Perception, Reasoning, and Simulation Diagnostics) provides two test suites that systematically evaluate VLM capabilities in structured game environments:
+PRS-Diag(Perception, Reasoning, and Simulation Diagnostics) provides two test suites that evaluate VLM capabilities in structured game environments:
 
 - **Perception Tests** — Controlled evaluation of visual encoding under variations in density, patch alignment, resolution, and visual richness, plus quantification of spatially coordinated localization drift. [Details](./perception/README.md)
 
