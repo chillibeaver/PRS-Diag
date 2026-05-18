@@ -1,0 +1,17 @@
+# Core scientific computing
+numpy>=1.24.0
+
+# Image processing
+Pillow>=10.0.0
+
+# Chess board generation and validation
+python-chess>=1.10.0
+
+# Environment variable management
+python-dotenv>=1.0.0
+
+# OpenAI API client for VLM inference
+openai>=1.0.0
+
+# Plotting and visualization
+matplotlib>=3.7.0
