@@ -18,7 +18,7 @@ PRS-Diag(Perception, Reasoning, and Simulation Diagnostics) provides two test su
 
 - **Perception Tests** — Controlled evaluation of visual encoding under variations in density, patch alignment, resolution, and visual richness, plus quantification of spatially coordinated localization drift. [Details](./perception/README.md)
 
-- **Rule-Following Tests** — A 2×2 diagnostic matrix and six-level rule complexity ladder evaluated in both explicit verification and predictive simulation modes, with text-only and chain-of-thought ablations. [Details](./rule_following/README.md)
+- **Rule-Following Tests** — A diagnostic matrix and six-level rule complexity ladder evaluated in both explicit verification and predictive simulation modes, with text-only and chain-of-thought ablations. [Details](./rule_following/README.md)
  
 ## Quick Start
 
